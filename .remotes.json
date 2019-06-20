@@ -1,5 +1,11 @@
 [
   {
+    "package": "koboquest",
+    "url": "https://github.com/mabafaba/koboquest",
+    "via": ["xlsformfill"],
+    "from": "xlsformfill"
+  },
+  {
     "package": "leafem",
     "url": "https://github.com/r-spatial/leafem",
     "via": ["ruODK"],

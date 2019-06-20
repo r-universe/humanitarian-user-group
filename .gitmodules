@@ -47,6 +47,10 @@
 [submodule "kobold"]
 	path = kobold
 	url = https://github.com/caldwellst/kobold
+[submodule "koboquest"]
+	path = koboquest
+	url = https://github.com/mabafaba/koboquest
+	registered = false
 [submodule "leafem"]
 	path = leafem
 	url = https://github.com/r-spatial/leafem
