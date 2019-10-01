@@ -29,6 +29,10 @@
 [submodule "compareXLSForms"]
 	path = compareXLSForms
 	url = https://github.com/williameoswald/compareXLSForms
+[submodule "composr"]
+	path = composr
+	url = https://github.com/mabafaba/composr
+	registered = false
 [submodule "formstools"]
 	path = formstools
 	url = https://github.com/ecohealthalliance/formstools
@@ -50,6 +54,10 @@
 [submodule "koboquest"]
 	path = koboquest
 	url = https://github.com/mabafaba/koboquest
+	registered = false
+[submodule "kobostandards"]
+	path = kobostandards
+	url = https://github.com/mabafaba/kobostandards
 	registered = false
 [submodule "leafem"]
 	path = leafem
@@ -99,6 +107,10 @@
 [submodule "surveycto"]
 	path = surveycto
 	url = https://github.com/Waiguru254/surveycto
+[submodule "surveyweights"]
+	path = surveyweights
+	url = https://github.com/mabafaba/surveyweights
+	registered = false
 [submodule "unhcrdatapackage"]
 	path = unhcrdatapackage
 	url = https://github.com/Edouard-Legoupil/unhcrdatapackage
