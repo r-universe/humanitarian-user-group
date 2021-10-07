@@ -2,6 +2,12 @@
   {
     "package": "koboquest",
     "url": "https://github.com/mabafaba/koboquest",
+    "via": ["QuestionnaireHTML"],
+    "from": "QuestionnaireHTML"
+  },
+  {
+    "package": "koboquest",
+    "url": "https://github.com/mabafaba/koboquest",
     "via": ["xlsformfill"],
     "from": "xlsformfill"
   },
