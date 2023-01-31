@@ -47,6 +47,14 @@
 [submodule "kobold"]
 	path = kobold
 	url = https://github.com/caldwellst/kobold
+[submodule "leafem"]
+	path = leafem
+	url = https://github.com/r-spatial/leafem
+	registered = false
+[submodule "mapview"]
+	path = mapview
+	url = https://github.com/r-spatial/mapview
+	registered = false
 [submodule "mdepriv"]
 	path = mdepriv
 	url = https://github.com/a-benini/mdepriv
