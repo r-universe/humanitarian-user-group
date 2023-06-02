@@ -14,13 +14,31 @@
   {
     "package": "leafem",
     "url": "https://github.com/r-spatial/leafem",
+    "via": ["formstools", "ruODK"],
+    "from": "formstools"
+  },
+  {
+    "package": "leafem",
+    "url": "https://github.com/r-spatial/leafem",
     "via": ["ruODK"],
     "from": "ruODK"
   },
   {
     "package": "mapview",
     "url": "https://github.com/r-spatial/mapview",
+    "via": ["formstools", "ruODK"],
+    "from": "formstools"
+  },
+  {
+    "package": "mapview",
+    "url": "https://github.com/r-spatial/mapview",
     "via": ["ruODK"],
     "from": "ruODK"
+  },
+  {
+    "package": "ruODK",
+    "url": "https://github.com/ropensci/ruODK",
+    "via": ["formstools"],
+    "from": "formstools"
   }
 ]
