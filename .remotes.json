@@ -1,5 +1,11 @@
 [
   {
+    "package": "ForcedDisplacementStat",
+    "url": "https://github.com/edouard-legoupil/ForcedDisplacementStat",
+    "via": ["unhcrdatapackage"],
+    "from": "unhcrdatapackage"
+  },
+  {
     "package": "XlsFormUtil",
     "url": "https://github.com/unhcr-americas/XlsFormUtil",
     "via": ["HighFrequencyChecks", "kobocruncher"],
@@ -16,6 +22,12 @@
     "url": "https://github.com/mabafaba/composr",
     "via": ["hypegrammaR"],
     "from": "hypegrammaR"
+  },
+  {
+    "package": "ggbraid",
+    "url": "https://github.com/nsgrantham/ggbraid",
+    "via": ["unhcrdatapackage"],
+    "from": "unhcrdatapackage"
   },
   {
     "package": "kobocruncher",
@@ -108,6 +120,12 @@
     "from": "kobocruncher"
   },
   {
+    "package": "unhcrdesign",
+    "url": "https://github.com/vidonne/unhcrdesign",
+    "via": ["unhcrdatapackage", "unhcrdown"],
+    "from": "unhcrdatapackage"
+  },
+  {
     "package": "unhcrdown",
     "url": "https://github.com/vidonne/unhcrdown",
     "via": ["HighFrequencyChecks"],
@@ -118,6 +136,12 @@
     "url": "https://github.com/vidonne/unhcrdown",
     "via": ["kobocruncher", "riddle"],
     "from": "kobocruncher"
+  },
+  {
+    "package": "unhcrdown",
+    "url": "https://github.com/vidonne/unhcrdown",
+    "via": ["unhcrdatapackage"],
+    "from": "unhcrdatapackage"
   },
   {
     "package": "unhcrshiny",
@@ -138,10 +162,22 @@
     "from": "kobocruncher"
   },
   {
+    "package": "unhcrshiny",
+    "url": "https://github.com/edouard-legoupil/unhcrshiny",
+    "via": ["unhcrdatapackage"],
+    "from": "unhcrdatapackage"
+  },
+  {
     "package": "unhcrthemes",
     "url": "https://github.com/vidonne/unhcrthemes",
     "via": ["HighFrequencyChecks"],
     "from": "HighFrequencyChecks"
+  },
+  {
+    "package": "unhcrthemes",
+    "url": "https://github.com/vidonne/unhcrthemes",
+    "via": ["unhcrdatapackage"],
+    "from": "unhcrdatapackage"
   },
   {
     "package": "xlsformfill",
