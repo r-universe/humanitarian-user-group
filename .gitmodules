@@ -80,6 +80,10 @@
 [submodule "rhdx"]
 	path = rhdx
 	url = https://github.com/dickoa/rhdx
+[submodule "riddle"]
+	path = riddle
+	url = https://github.com/edouard-legoupil/riddle
+	registered = false
 [submodule "robotoolbox"]
 	path = robotoolbox
 	url = https://github.com/dickoa/robotoolbox
@@ -98,9 +102,21 @@
 [submodule "unhcrdatapackage"]
 	path = unhcrdatapackage
 	url = https://github.com/Edouard-Legoupil/unhcrdatapackage
+[submodule "unhcrdesign"]
+	path = unhcrdesign
+	url = https://github.com/vidonne/unhcrdesign
+	registered = false
+[submodule "unhcrdown"]
+	path = unhcrdown
+	url = https://github.com/vidonne/unhcrdown
+	registered = false
 [submodule "unhcrshiny"]
 	path = unhcrshiny
 	url = https://github.com/edouard-legoupil/unhcrshiny
+	registered = false
+[submodule "unhcrthemes"]
+	path = unhcrthemes
+	url = https://github.com/vidonne/unhcrthemes
 	registered = false
 [submodule "xlsformfill"]
 	path = xlsformfill
