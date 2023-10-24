@@ -98,6 +98,10 @@
 [submodule "unhcrdatapackage"]
 	path = unhcrdatapackage
 	url = https://github.com/Edouard-Legoupil/unhcrdatapackage
+[submodule "unhcrshiny"]
+	path = unhcrshiny
+	url = https://github.com/edouard-legoupil/unhcrshiny
+	registered = false
 [submodule "xlsformfill"]
 	path = xlsformfill
 	url = https://github.com/mabafaba/xlsformfill

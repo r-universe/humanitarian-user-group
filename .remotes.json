@@ -40,5 +40,11 @@
     "url": "https://github.com/ropensci/ruODK",
     "via": ["formstools"],
     "from": "formstools"
+  },
+  {
+    "package": "unhcrshiny",
+    "url": "https://github.com/edouard-legoupil/unhcrshiny",
+    "via": ["XlsFormUtil"],
+    "from": "XlsFormUtil"
   }
 ]
