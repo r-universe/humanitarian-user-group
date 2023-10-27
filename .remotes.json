@@ -6,6 +6,12 @@
     "from": "HighFrequencyChecks"
   },
   {
+    "package": "XlsFormUtil",
+    "url": "https://github.com/unhcr-americas/XlsFormUtil",
+    "via": ["kobocruncher"],
+    "from": "kobocruncher"
+  },
+  {
     "package": "kobocruncher",
     "url": "https://github.com/edouard-legoupil/kobocruncher",
     "via": ["HighFrequencyChecks"],
@@ -54,6 +60,12 @@
     "from": "HighFrequencyChecks"
   },
   {
+    "package": "riddle",
+    "url": "https://github.com/edouard-legoupil/riddle",
+    "via": ["kobocruncher"],
+    "from": "kobocruncher"
+  },
+  {
     "package": "ruODK",
     "url": "https://github.com/ropensci/ruODK",
     "via": ["formstools"],
@@ -66,10 +78,22 @@
     "from": "HighFrequencyChecks"
   },
   {
+    "package": "unhcrdesign",
+    "url": "https://github.com/vidonne/unhcrdesign",
+    "via": ["kobocruncher", "riddle", "unhcrdown"],
+    "from": "kobocruncher"
+  },
+  {
     "package": "unhcrdown",
     "url": "https://github.com/vidonne/unhcrdown",
     "via": ["HighFrequencyChecks"],
     "from": "HighFrequencyChecks"
+  },
+  {
+    "package": "unhcrdown",
+    "url": "https://github.com/vidonne/unhcrdown",
+    "via": ["kobocruncher", "riddle"],
+    "from": "kobocruncher"
   },
   {
     "package": "unhcrshiny",
@@ -82,6 +106,12 @@
     "url": "https://github.com/edouard-legoupil/unhcrshiny",
     "via": ["XlsFormUtil"],
     "from": "XlsFormUtil"
+  },
+  {
+    "package": "unhcrshiny",
+    "url": "https://github.com/edouard-legoupil/unhcrshiny",
+    "via": ["kobocruncher"],
+    "from": "kobocruncher"
   },
   {
     "package": "unhcrthemes",
