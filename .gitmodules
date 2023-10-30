@@ -1,5 +1,94 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/humanitarian-user-group/humanitarian-user-group.r-universe.dev
 	branch = HEAD
+[submodule "HighFrequencyChecks"]
+	path = HighFrequencyChecks
+	url = https://github.com/Edouard-Legoupil/HighFrequencyChecks
+[submodule "QuestionnaireHTML"]
+	path = QuestionnaireHTML
+	url = https://github.com/hedibmustapha/QuestionnaireHTML
+[submodule "R-ODK"]
+	path = R-ODK
+	url = https://github.com/Arab-Barometer/R-ODK
+[submodule "XlsFormUtil"]
+	path = XlsFormUtil
+	url = https://github.com/unhcr-americas/XlsFormUtil
+[submodule "addindicators"]
+	path = addindicators
+	url = https://github.com/impact-initiatives/addindicators
+[submodule "analysistool"]
+	path = analysistool
+	url = https://github.com/impact-initiatives/analysistools
+[submodule "butteR"]
+	path = butteR
+	url = https://github.com/zackarno/butteR
+[submodule "cleaningtools"]
+	path = cleaningtools
+	url = https://github.com/impact-initiatives/cleaningtools
+[submodule "compareXLSForms"]
+	path = compareXLSForms
+	url = https://github.com/williameoswald/compareXLSForms
+[submodule "formstools"]
+	path = formstools
+	url = https://github.com/ecohealthalliance/formstools
+[submodule "hypegrammaR"]
+	path = hypegrammaR
+	url = https://github.com/mabafaba/hypegrammaR
+[submodule "koboAPI"]
+	path = koboAPI
+	url = https://github.com/ElliottMess/koboAPI
+[submodule "kobocruncher"]
+	path = kobocruncher
+	url = https://github.com/Edouard-Legoupil/kobocruncher
+[submodule "kobohr_apitoolbox"]
+	path = kobohr_apitoolbox
+	url = https://github.com/ppsapkota/kobohr_apitoolbox
+[submodule "kobold"]
+	path = kobold
+	url = https://github.com/caldwellst/kobold
+[submodule "mdepriv"]
+	path = mdepriv
+	url = https://github.com/a-benini/mdepriv
+[submodule "odk"]
+	path = odk
+	url = https://github.com/cran/odk
+[submodule "okapi"]
+	path = okapi
+	url = https://github.com/rapidsurveys/okapi
+[submodule "presentresults"]
+	path = presentresults
+	url = https://github.com/impact-initiatives/presentresults
+[submodule "quiveR"]
+	path = quiveR
+	url = https://github.com/iyedg/quiveR
+[submodule "refugees"]
+	path = refugees
+	url = https://github.com/PopulationStatistics/refugees
+[submodule "rhdx"]
+	path = rhdx
+	url = https://github.com/dickoa/rhdx
+[submodule "robotoolbox"]
+	path = robotoolbox
+	url = https://github.com/dickoa/robotoolbox
+[submodule "ruODK"]
+	path = ruODK
+	url = https://github.com/ropensci/ruODK
+[submodule "sitrep"]
+	path = sitrep
+	url = https://r4epi.github.io/sitrep
+[submodule "slapaDAP"]
+	path = slapaDAP
+	url = https://github.com/zackarno/slapaDAP
+[submodule "surveycto"]
+	path = surveycto
+	url = https://github.com/Waiguru254/surveycto
+[submodule "unhcrdatapackage"]
+	path = unhcrdatapackage
+	url = https://github.com/Edouard-Legoupil/unhcrdatapackage
+[submodule "xlsformfill"]
+	path = xlsformfill
+	url = https://github.com/mabafaba/xlsformfill
+[submodule "xlsformr"]
+	path = xlsformr
+	url = https://github.com/rapidsurveys/xlsformr
