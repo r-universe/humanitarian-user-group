@@ -24,12 +24,6 @@
     "from": "hypegrammaR"
   },
   {
-    "package": "ggbraid",
-    "url": "https://github.com/nsgrantham/ggbraid",
-    "via": ["unhcrdatapackage"],
-    "from": "unhcrdatapackage"
-  },
-  {
     "package": "kobocruncher",
     "url": "https://github.com/edouard-legoupil/kobocruncher",
     "via": ["HighFrequencyChecks"],
@@ -139,7 +133,7 @@
   },
   {
     "package": "unhcrdown",
-    "url": "https://github.com/vidonne/unhcrdown",
+    "url": "https://github.com/unhcr-dataviz/unhcrdown",
     "via": ["unhcrdatapackage"],
     "from": "unhcrdatapackage"
   },
@@ -175,7 +169,7 @@
   },
   {
     "package": "unhcrthemes",
-    "url": "https://github.com/vidonne/unhcrthemes",
+    "url": "https://github.com/unhcr-dataviz/unhcrthemes",
     "via": ["unhcrdatapackage"],
     "from": "unhcrdatapackage"
   },
