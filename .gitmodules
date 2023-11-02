@@ -124,7 +124,7 @@
 	registered = false
 [submodule "unhcrdown"]
 	path = unhcrdown
-	url = https://github.com/vidonne/unhcrdown
+	url = https://github.com/unhcr-dataviz/unhcrdown
 	registered = false
 [submodule "unhcrshiny"]
 	path = unhcrshiny
@@ -132,7 +132,7 @@
 	registered = false
 [submodule "unhcrthemes"]
 	path = unhcrthemes
-	url = https://github.com/vidonne/unhcrthemes
+	url = https://github.com/unhcr-dataviz/unhcrthemes
 	registered = false
 [submodule "xlsformfill"]
 	path = xlsformfill

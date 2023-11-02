@@ -121,7 +121,7 @@
   },
   {
     "package": "unhcrdown",
-    "url": "https://github.com/vidonne/unhcrdown",
+    "url": "https://github.com/unhcr-dataviz/unhcrdown",
     "via": ["HighFrequencyChecks"],
     "from": "HighFrequencyChecks"
   },
@@ -163,7 +163,7 @@
   },
   {
     "package": "unhcrthemes",
-    "url": "https://github.com/vidonne/unhcrthemes",
+    "url": "https://github.com/unhcr-dataviz/unhcrthemes",
     "via": ["HighFrequencyChecks"],
     "from": "HighFrequencyChecks"
   },
