@@ -24,6 +24,10 @@
 [submodule "analysistool"]
 	path = analysistool
 	url = https://github.com/impact-initiatives/analysistools
+[submodule "analysistools"]
+	path = analysistools
+	url = https://github.com/impact-initiatives/analysistools
+	registered = false
 [submodule "butteR"]
 	path = butteR
 	url = https://github.com/zackarno/butteR

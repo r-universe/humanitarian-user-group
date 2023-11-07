@@ -18,6 +18,24 @@
     "from": "kobocruncher"
   },
   {
+    "package": "addindicators",
+    "url": "https://github.com/impact-initiatives/addindicators",
+    "via": ["presentresults", "analysistools"],
+    "from": "presentresults"
+  },
+  {
+    "package": "analysistools",
+    "url": "https://github.com/impact-initiatives/analysistools",
+    "via": ["presentresults"],
+    "from": "presentresults"
+  },
+  {
+    "package": "cleaningtools",
+    "url": "https://github.com/impact-initiatives/cleaningtools",
+    "via": ["presentresults", "analysistools"],
+    "from": "presentresults"
+  },
+  {
     "package": "composr",
     "url": "https://github.com/mabafaba/composr",
     "via": ["hypegrammaR"],
