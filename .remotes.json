@@ -114,6 +114,12 @@
     "from": "kobocruncher"
   },
   {
+    "package": "riddle",
+    "url": "https://github.com/edouard-legoupil/riddle",
+    "via": ["presentresults", "analysistools", "cleaningtools"],
+    "from": "presentresults"
+  },
+  {
     "package": "ruODK",
     "url": "https://github.com/ropensci/ruODK",
     "via": ["formstools"],
@@ -146,6 +152,12 @@
   {
     "package": "unhcrdesign",
     "url": "https://github.com/vidonne/unhcrdesign",
+    "via": ["presentresults", "analysistools", "cleaningtools", "riddle", "unhcrdown"],
+    "from": "presentresults"
+  },
+  {
+    "package": "unhcrdesign",
+    "url": "https://github.com/vidonne/unhcrdesign",
     "via": ["unhcrdatapackage", "unhcrdown"],
     "from": "unhcrdatapackage"
   },
@@ -166,6 +178,12 @@
     "url": "https://github.com/vidonne/unhcrdown",
     "via": ["kobocruncher", "riddle"],
     "from": "kobocruncher"
+  },
+  {
+    "package": "unhcrdown",
+    "url": "https://github.com/vidonne/unhcrdown",
+    "via": ["presentresults", "analysistools", "cleaningtools", "riddle"],
+    "from": "presentresults"
   },
   {
     "package": "unhcrdown",
