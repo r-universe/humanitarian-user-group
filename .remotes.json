@@ -104,12 +104,6 @@
   {
     "package": "riddle",
     "url": "https://github.com/edouard-legoupil/riddle",
-    "via": ["cleaningtools"],
-    "from": "cleaningtools"
-  },
-  {
-    "package": "riddle",
-    "url": "https://github.com/edouard-legoupil/riddle",
     "via": ["kobocruncher"],
     "from": "kobocruncher"
   },
@@ -140,12 +134,6 @@
   {
     "package": "unhcrdesign",
     "url": "https://github.com/vidonne/unhcrdesign",
-    "via": ["cleaningtools", "riddle", "unhcrdown"],
-    "from": "cleaningtools"
-  },
-  {
-    "package": "unhcrdesign",
-    "url": "https://github.com/vidonne/unhcrdesign",
     "via": ["kobocruncher", "riddle", "unhcrdown"],
     "from": "kobocruncher"
   },
@@ -166,12 +154,6 @@
     "url": "https://github.com/unhcr-dataviz/unhcrdown",
     "via": ["HighFrequencyChecks"],
     "from": "HighFrequencyChecks"
-  },
-  {
-    "package": "unhcrdown",
-    "url": "https://github.com/vidonne/unhcrdown",
-    "via": ["cleaningtools", "riddle"],
-    "from": "cleaningtools"
   },
   {
     "package": "unhcrdown",
