@@ -44,6 +44,10 @@
 [submodule "formstools"]
 	path = formstools
 	url = https://github.com/ecohealthalliance/formstools
+[submodule "ggbraid"]
+	path = ggbraid
+	url = https://github.com/nsgrantham/ggbraid
+	registered = false
 [submodule "hypegrammaR"]
 	path = hypegrammaR
 	url = https://github.com/mabafaba/hypegrammaR
