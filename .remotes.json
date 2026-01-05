@@ -1,11 +1,5 @@
 [
   {
-    "package": "ForcedDisplacementStat",
-    "url": "https://github.com/edouard-legoupil/ForcedDisplacementStat",
-    "via": ["unhcrdatapackage"],
-    "from": "unhcrdatapackage"
-  },
-  {
     "package": "XlsFormUtil",
     "url": "https://github.com/unhcr-americas/XlsFormUtil",
     "via": ["HighFrequencyChecks", "kobocruncher"],
@@ -40,12 +34,6 @@
     "url": "https://github.com/mabafaba/composr",
     "via": ["hypegrammaR"],
     "from": "hypegrammaR"
-  },
-  {
-    "package": "ggbraid",
-    "url": "https://github.com/nsgrantham/ggbraid",
-    "via": ["unhcrdatapackage"],
-    "from": "unhcrdatapackage"
   },
   {
     "package": "kobocruncher",
@@ -184,12 +172,6 @@
     "url": "https://github.com/edouard-legoupil/unhcrshiny",
     "via": ["kobocruncher"],
     "from": "kobocruncher"
-  },
-  {
-    "package": "unhcrshiny",
-    "url": "https://github.com/edouard-legoupil/unhcrshiny",
-    "via": ["unhcrdatapackage"],
-    "from": "unhcrdatapackage"
   },
   {
     "package": "unhcrthemes",
