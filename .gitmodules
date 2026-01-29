@@ -20,10 +20,6 @@
 [submodule "analysistool"]
 	path = analysistool
 	url = https://github.com/impact-initiatives/analysistools
-[submodule "analysistools"]
-	path = analysistools
-	url = https://github.com/impact-initiatives/analysistools
-	registered = false
 [submodule "butteR"]
 	path = butteR
 	url = https://github.com/zackarno/butteR
@@ -33,10 +29,6 @@
 [submodule "compareXLSForms"]
 	path = compareXLSForms
 	url = https://github.com/williameoswald/compareXLSForms
-[submodule "composr"]
-	path = composr
-	url = https://github.com/mabafaba/composr
-	registered = false
 [submodule "formstools"]
 	path = formstools
 	url = https://github.com/ecohealthalliance/formstools
@@ -55,22 +47,6 @@
 [submodule "kobold"]
 	path = kobold
 	url = https://github.com/caldwellst/kobold
-[submodule "koboquest"]
-	path = koboquest
-	url = https://github.com/mabafaba/koboquest
-	registered = false
-[submodule "kobostandards"]
-	path = kobostandards
-	url = https://github.com/mabafaba/kobostandards
-	registered = false
-[submodule "leafem"]
-	path = leafem
-	url = https://github.com/r-spatial/leafem
-	registered = false
-[submodule "mapview"]
-	path = mapview
-	url = https://github.com/r-spatial/mapview
-	registered = false
 [submodule "mdepriv"]
 	path = mdepriv
 	url = https://github.com/a-benini/mdepriv
@@ -92,10 +68,6 @@
 [submodule "rhdx"]
 	path = rhdx
 	url = https://github.com/dickoa/rhdx
-[submodule "riddle"]
-	path = riddle
-	url = https://github.com/edouard-legoupil/riddle
-	registered = false
 [submodule "robotoolbox"]
 	path = robotoolbox
 	url = https://github.com/dickoa/robotoolbox
@@ -111,29 +83,9 @@
 [submodule "surveycto"]
 	path = surveycto
 	url = https://github.com/Waiguru254/surveycto
-[submodule "surveyweights"]
-	path = surveyweights
-	url = https://github.com/mabafaba/surveyweights
-	registered = false
 [submodule "unhcrdatapackage"]
 	path = unhcrdatapackage
 	url = https://github.com/Edouard-Legoupil/unhcrdatapackage
-[submodule "unhcrdesign"]
-	path = unhcrdesign
-	url = https://github.com/vidonne/unhcrdesign
-	registered = false
-[submodule "unhcrdown"]
-	path = unhcrdown
-	url = https://github.com/unhcr-dataviz/unhcrdown
-	registered = false
-[submodule "unhcrshiny"]
-	path = unhcrshiny
-	url = https://github.com/edouard-legoupil/unhcrshiny
-	registered = false
-[submodule "unhcrthemes"]
-	path = unhcrthemes
-	url = https://github.com/unhcr-dataviz/unhcrthemes
-	registered = false
 [submodule "xlsformfill"]
 	path = xlsformfill
 	url = https://github.com/mabafaba/xlsformfill
